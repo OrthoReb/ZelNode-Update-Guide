@@ -15,6 +15,7 @@
 
 ## Section A: Updating VPS
 ***Step 1***
+
 **Connect to your VPS using Putty or your terminal of choice**
 
 ***PLEASE BE SURE YOU ARE LOGGED IN AS YOUR USERNAME (not root) BEFORE RUNNING THIS SCRIPT***
