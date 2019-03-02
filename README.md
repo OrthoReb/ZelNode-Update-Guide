@@ -132,7 +132,7 @@
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
-**(It will show up as 'PRE_ENABLED' prior to 15 confirmations at a minimum, and it could take several hours to show as 'ENABLED')**
+**(***It will show up as 'PRE_ENABLED' prior to 15 confirmations at a minimum, and it could take several hours to show as 'ENABLED'***)**
 
 ***
 
