@@ -106,7 +106,7 @@
 
 ***'ZelNodes Management'***
 
-![Example-OS](https://imgur.com/uvqjVZ6.png)
+![Example-OS](https://imgur.com/J7TqUmN.png)
 
 ***
 
