@@ -64,7 +64,7 @@
 
 ***Step 2***
 
-****Open your ZelCore wallet and choose 'ZelCash'***
+***Open your ZelCore wallet and choose 'ZelCash'***
 
 ![Example-OS](https://imgur.com/9WrruJR.png)
 
