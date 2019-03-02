@@ -100,3 +100,46 @@
 ![Example-OS](https://imgur.com/uvqjVZ6.png)
 
 ***
+
+***Step 7***
+
+***'ZelNodes Management'***
+
+![Example-OS](https://imgur.com/uvqjVZ6.png)
+
+***
+
+***Step 8***
+
+***'Start ZelNodes'***
+
+***MAKE SURE TO ONLY START ZELNODES THAT HAVE BEEN UPDATED ON THE VPS SIDE***
+
+![Example-OS](https://imgur.com/mejUwOs.png)
+
+***
+
+***Step 9***
+
+***Go back to your VPS to confirm that your ZelNode is showing 'Status 4' by running the following command (If it does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)***
+
+`zelcash-cli getzelnodestatus`
+
+![Example-installing](https://imgur.com/nj76J7D.png)
+
+***You can also view your ZelNode on the [block explorer](https://explorer.zel.cash/zelnodes)***
+
+![Example-installing](https://imgur.com/SkGqa6D.png)
+
+**(It will show up as 'PRE_ENABLED' prior to 15 confirmations at a minimum, and it could take several hours to show as 'ENABLED')**
+
+***
+
+***CONGRATULATIONS AND THANK YOU FOR BEING A PART OF THE COMMUNITY!!!!!!!!!!!!!***
+
+***
+
+
+
+
+
