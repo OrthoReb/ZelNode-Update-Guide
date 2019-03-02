@@ -15,7 +15,7 @@
 
 ## Section A: Updating VPS
 ***Step 1***
-* **Connect to your VPS using Putty or your terminal of choice**
+**Connect to your VPS using Putty or your terminal of choice**
 
 ***PLEASE BE SURE YOU ARE LOGGED IN AS YOUR USERNAME (not root) BEFORE RUNNING THIS SCRIPT***
 
@@ -23,58 +23,72 @@
 
 ***
 
-***Step***
-* **Run update script**
+***Step 2***
+**Run update script**
 
 `wget -O zelnodeupdate.sh https://raw.githubusercontent.com/zelcash/ZelNodeUpdate/master/zelnodeupdate.sh && chmod +x zelnodeupdate.sh && bash ./zelnodeupdate.sh`
-
 
 ***
 
 ***Step 3***
-* **Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)**
+**Reboot once the script has finished installing by running the following command**
+
+`sudo reboot -n`
+
+***
+
+***Step 4***
+**Log back into your VPS and verify the download is showing 'protocolversion 170010' and 'blocks' matches the current block**
+
+***Run this command to see the info***
+
+`zelcash-cli getinfo`
+
+![Example-OS](https://imgur.com/PLxhNBy.png)
+
+***Check the current block on the explorer by clicking [here](https://explorer.zel.cash/blocks)***
+
+***
+
+## Section B: Updating ZelCore and Starting ZelNode(s)
+***Step 1 (if necessary)***
+**Log into ZelCore to auto update to the new bins and reboot to install them**
+
+***
+
+***Step 2***
+
+****Open your ZelCore wallet and choose 'ZelCash'***
 
 ![Example-OS](https://imgur.com/9WrruJR.png)
 
 ***
 
-***Step 4***
+***Step 3***
 * **'Full Node'**
 
 ![Example-OS](https://imgur.com/CXLLEth.png)
 
 ***
 
-***Step 5***
-* **'Launch Full Node'**
+***Step 4***
+**'Launch Full Node'**
 
 ![Example-OS](https://imgur.com/EvEj6H2.png)
 
 ***
 
-## Section B: Updating ZelCore and Starting ZelNode(s)
-***Step 4***
-* **'Full Node'**
+***Step 5***
 
-![Example-OS](https://imgur.com/CXLLEth.png)
+**'Launch ZelCash' when prompted** 
 
-***
-
-***Step 4***
-* **'Full Node'**
-
-![Example-OS](https://imgur.com/CXLLEth.png)
+![Example-OS](https://imgur.com/PbIIEt9.png)
 
 ***
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+***Step 6***
+**Go into 'Tools' after wallet is 100% synced**
+
+![Example-OS](https://imgur.com/uvqjVZ6.png)
+
+***
