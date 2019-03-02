@@ -16,7 +16,7 @@
 ## Section A: Updating VPS
 ***Step 1***
 
-**Connect to your VPS using Putty or your terminal of choice**
+***Connect to your VPS using Putty or your terminal of choice***
 
 ***PLEASE BE SURE YOU ARE LOGGED IN AS YOUR USERNAME (not root) BEFORE RUNNING THIS SCRIPT***
 
@@ -25,21 +25,24 @@
 ***
 
 ***Step 2***
-**Run update script**
+
+***Run update script***
 
 `wget -O zelnodeupdate.sh https://raw.githubusercontent.com/zelcash/ZelNodeUpdate/master/zelnodeupdate.sh && chmod +x zelnodeupdate.sh && bash ./zelnodeupdate.sh`
 
 ***
 
 ***Step 3***
-**Reboot once the script has finished installing by running the following command**
+
+***Reboot once the script has finished installing by running the following command***
 
 `sudo reboot -n`
 
 ***
 
 ***Step 4***
-**Log back into your VPS and verify the download is showing 'protocolversion 170010' and 'blocks' matches the current block**
+
+***Log back into your VPS and verify the download is showing 'protocolversion 170010' and 'blocks' matches the current block***
 
 ***Run this command to see the info***
 
@@ -53,7 +56,8 @@
 
 ## Section B: Updating ZelCore and Starting ZelNode(s)
 ***Step 1 (if necessary)***
-**Log into ZelCore to auto update to the new bins and reboot to install them**
+
+***Log into ZelCore to auto update to the new bins and reboot to install them***
 
 ***
 
@@ -66,14 +70,16 @@
 ***
 
 ***Step 3***
-* **'Full Node'**
+
+***'Full Node'***
 
 ![Example-OS](https://imgur.com/CXLLEth.png)
 
 ***
 
 ***Step 4***
-**'Launch Full Node'**
+
+***'Launch Full Node'***
 
 ![Example-OS](https://imgur.com/EvEj6H2.png)
 
@@ -81,14 +87,15 @@
 
 ***Step 5***
 
-**'Launch ZelCash' when prompted** 
+***'Launch ZelCash' when prompted*** 
 
 ![Example-OS](https://imgur.com/PbIIEt9.png)
 
 ***
 
 ***Step 6***
-**Go into 'Tools' after wallet is 100% synced**
+
+***Go into 'Tools' after wallet is 100% synced***
 
 ![Example-OS](https://imgur.com/uvqjVZ6.png)
 
