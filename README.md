@@ -6,7 +6,7 @@
 
 ***
 
-***This guide is for updating existing ZelNodes that were installed using the VPS script and a ZelCash full node on ZelCore.  Use Goose's video guide in conjection to help answer any questions by clicking [here](https://youtu.be/UuhOxDHaYg0)***
+***This guide is for updating existing ZelNodes that were installed using the VPS script and a ZelCash full node on ZelCore.  Use Goose's video guide in conjunction to help answer any questions by clicking [here](https://youtu.be/UuhOxDHaYg0)***
 
 ***
 
