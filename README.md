@@ -60,7 +60,7 @@
 ## Section B: Updating ZelCore and Starting ZelNode(s)
 ***STEP 1 (if necessary)***
 
-***Log into ZelCore to auto update to the new bins and reboot to install them***
+***Log into ZelCore to auto update the new bins and reboot to install them***
 
 ***
 
