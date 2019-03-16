@@ -29,7 +29,7 @@
 
 ***Run update script***
 
-`wget -O zelnodeupdate.sh https://raw.githubusercontent.com/zelcash/ZelNodeUpdate/master/zelnodeupdate.sh && chmod +x zelnodeupdate.sh && bash ./zelnodeupdate.sh`
+`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`
 
 ***HUGE SHOUTOUT TO GOOSE, SKYSLAYER AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 
